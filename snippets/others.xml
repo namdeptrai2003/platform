@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="packages/apps/DUI" name="DirtyUnicorns/android_packages_apps_DUI" remote="uos" />
-  <project path="external/DUtils" name="DirtyUnicorns/android_external_DUtils" remote="uos" />
+  <project path="packages/apps/DUI" name="DirtyUnicorns/android_packages_apps_DUI" remote="du" />
+  <project path="external/DUtils" name="DirtyUnicorns/android_external_DUtils" remote="du" />
 
 </manifest>
