@@ -9,7 +9,6 @@
   <project path="frameworks/base" name="UOS-By-Uteam/platform_frameworks_base" remote="uos" />
   <project path="packages/apps/CMParts" name="UOS-By-Uteam/platform_packages_apps_CMParts" remote="uos" />
   <project path="packages/apps/UOSSettings" name="UOS-By-Uteam/platform_packages_apps_UOSSettings" remote="uos" />
-  <project path="packages/apps/Messaging" name="UOS-By-Uteam/platform_package_apps_Messaging" remote="uos" />
   <project path="packages/apps/Settings" name="UOS-By-Uteam/platform_packages_apps_Settings" remote="uos" />
   <project path="system/sepolicy" name="UOS-By-Uteam/platform_system_sepolicy" remote="uos" />
   <project path="vendor/cm" name="UOS-By-Uteam/platform_vendor_cm" remote="uos" />
