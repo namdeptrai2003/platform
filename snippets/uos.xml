@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- UOS additions -->
+  <project path="android" name="UOS-By-Uteam/platform" remote="uos" />
+  <project path="build" name="UOS-By-Uteam/platform_build" remote="uos" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+  <project path="frameworks/base" name="UOS-By-Uteam/platform_frameworks_base" remote="uos" />
+  <project path="packages/apps/CMParts" name="UOS-By-Uteam/platform_packages_apps_CMParts" remote="uos" />
+  <project path="packages/apps/UOSSettings" name="UOS-By-Uteam/platform_packages_apps_UOSSettings" remote="uos" />
+  <project path="packages/apps/Messaging" name="UOS-By-Uteam/platform_package_apps_Messaging" remote="uos" />
+  <project path="packages/apps/Settings" name="UOS-By-Uteam/platform_packages_apps_Settings" remote="uos" />
+  <project path="system/sepolicy" name="UOS-By-Uteam/platform_system_sepolicy" remote="uos" />
+  <project path="vendor/cm" name="UOS-By-Uteam/platform_vendor_cm" remote="uos" />
+  <project path="vendor/uos" name="UOS-By-Uteam/platform_vendor_uos" remote="uos" />
+
+</manifest>
