@@ -15,5 +15,6 @@
   <project path="vendor/uos" name="UOS-By-Uteam/platform_vendor_uos" remote="uos" />
   <project path="frameworks/native" name="UOS-By-Uteam/platform_frameworks_native" remote="uos" />
   <project path="system/core" name="UOS-By-Uteam/platform_system_core" remote="uos" />
+  <project path="external/DUtils" name="UOS-By-Uteam/platform_external_DUtils" remote="uos" />
 
 </manifest>
