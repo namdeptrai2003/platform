@@ -10,6 +10,8 @@
   <project path="packages/apps/CMParts" name="UOS-By-Uteam/platform_packages_apps_CMParts" remote="uos" />
   <project path="packages/apps/UOSSettings" name="UOS-By-Uteam/platform_packages_apps_UOSSettings" remote="uos" />
   <project path="packages/apps/UCalculator" name="UOS-By-Uteam/platform_packages_apps_UCalculator" remote="uos" />
+  <project path="packages/apps/UCompass" name="UOS-By-Uteam/platform_packages_apps_UCompass" remote="uos" />
+  <project path="packages/apps/UOSWallpaper" name="UOS-By-Uteam/platform_packages_apps_UOSWallpaper" remote="uos" />
   <project path="packages/apps/Dialer" name="UOS-By-Uteam/platform_packages_apps_Dialer" remote="uos" />
   <project path="packages/apps/Email" name="UOS-By-Uteam/platform_packages_apps_Email" remote="uos" />
   <project path="packages/apps/Gallery2" name="UOS-By-Uteam/platform_packages_apps_Gallery2" remote="uos" />
