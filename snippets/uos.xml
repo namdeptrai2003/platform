@@ -16,8 +16,8 @@
   <project path="packages/apps/Email" name="UOS-By-Uteam/platform_packages_apps_Email" remote="uos" />
   <project path="packages/apps/Gallery2" name="UOS-By-Uteam/platform_packages_apps_Gallery2" remote="uos" />
   <project path="packages/apps/ContactsCommon" name="UOS-By-Uteam/platform_packages_apps_ContactsCommon" remote="uos" />
-  <project path="packages/apps/Stk" name="UOS-By-Uteam/platform_packages_apps_Settings" remote="uos" />
-  <project path="packages/apps/Settings" name="UOS-By-Uteam/platform_packages_apps_Stk" remote="uos" />
+  <project path="packages/apps/Stk" name="UOS-By-Uteam/platform_packages_apps_Stk" remote="uos" />
+  <project path="packages/apps/Settings" name="UOS-By-Uteam/platform_packages_apps_Settings" remote="uos" />
   <project path="packages/apps/SoundRecorder" name="UOS-By-Uteam/platform_packages_apps_SoundRecorder" remote="uos" />
   <project path="packages/apps/Messaging" name="UOS-By-Uteam/platform_packages_apps_Messaging" remote="uos" />
   <project path="packages/apps/Calendar" name="UOS-By-Uteam/platform_packages_apps_Calendar" remote="uos" />
