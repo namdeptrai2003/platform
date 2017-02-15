@@ -33,13 +33,15 @@
   <project path="hardware/ti/omap4" name="UOS-By-Uteam/platform_hardware_ti_omap4" />
   <project path="hardware/ti/wlan" name="UOS-By-Uteam/platform_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="UOS-By-Uteam/platform_hardware_ti_wpan" />
+  <project path="packages/apps/AudioFX" name="UOS-By-Uteam/platform_packages_apps_AudioFX" />
   <project path="packages/apps/Browser" name="UOS-By-Uteam/platform_packages_apps_Browser" />
   <project path="packages/apps/CMParts" name="UOS-By-Uteam/platform_packages_apps_CMParts" />
+  <project path="packages/apps/Eleven" name="UOS-By-Uteam/platform_packages_apps_Eleven" />
   <project path="packages/apps/Exchange" name="UOS-By-Uteam/platform_packages_apps_Exchange" />
   <project path="packages/apps/FMRadio" name="UOS-By-Uteam/platform_packages_apps_FMRadio" />
   <project path="packages/apps/LockClock" name="UOS-By-Uteam/platform_packages_apps_LockClock" />
   <project path="packages/apps/Profiles" name="UOS-By-Uteam/platform_packages_apps_Profiles" />
-  <project path="packages/apps/Recorder" name="UOS-By-Uteam/android_packages_apps_Recorder" />
+  <project path="packages/apps/Recorder" name="UOS-By-Uteam/platform_packages_apps_Recorder" />
   <project path="packages/apps/SetupWizard" name="UOS-By-Uteam/platform_packages_apps_SetupWizard" />
   <project path="packages/apps/UCompass" name="UOS-By-Uteam/platform_packages_apps_UCompass" />
   <project path="packages/providers/DataUsageProvider" name="UOS-By-Uteam/platform_packages_providers_DataUsageProvider" />
@@ -97,7 +99,7 @@
   <project path="system/qcom" name="UOS-By-Uteam/platform_system_qcom" groups="qcom" />
   <project path="vendor/codeaurora/telephony" name="UOS-By-Uteam/platform_vendor_codeaurora_telephony" />
   <project path="vendor/qcom/opensource/bluetooth" name="UOS-By-Uteam/platform_vendor_qcom_opensource_bluetooth" />
-  <project path="vendor/qcom/opensource/cryptfs_hw" name="UOS-By-Uteam/android_vendor_qcom_opensource_cryptfs_hw" />
+  <project path="vendor/qcom/opensource/cryptfs_hw" name="UOS-By-Uteam/platform_vendor_qcom_opensource_cryptfs_hw" />
   <project path="vendor/qcom/opensource/dataservices" name="UOS-By-Uteam/platform_vendor_qcom_opensource_dataservices" />
   <project path="vendor/qcom/opensource/dpm" name="UOS-By-Uteam/platform_vendor_qcom_opensource_dpm" />
   <project path="vendor/qcom/opensource/time-services" name="UOS-By-Uteam/platform_vendor_qcom_opensource_time-services" />
