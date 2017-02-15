@@ -3,14 +3,11 @@
 
   <!-- CyanogenMod additions -->
   <project path="android" name="UOS-By-Uteam/platform" />
-  <project path="external/ahbottomnavigation" name="UOS-By-Uteam/platform_external_ahbottomnavigation" />
-  <project path="external/android-visualizer" name="UOS-By-Uteam/platform_external_android-visualizer" />
   <project path="external/bash" name="UOS-By-Uteam/platform_external_bash" />
   <project path="external/cmsdk-api-coverage" name="UOS-By-Uteam/platform_external_cmsdk-api-coverage" />
   <project path="external/exfat" name="UOS-By-Uteam/platform_external_exfat" />
   <project path="external/ffmpeg" name="UOS-By-Uteam/platform_external_ffmpeg" />
   <project path="external/fuse" name="UOS-By-Uteam/platform_external_fuse" />
-  <project path="external/google" name="UOS-By-Uteam/platform_external_google" />
   <project path="external/htop" name="UOS-By-Uteam/platform_external_htop" />
   <project path="external/koush/ion" name="UOS-By-Uteam/ion" />
   <project path="external/libncurses" name="UOS-By-Uteam/platform_external_libncurses" />
