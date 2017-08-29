@@ -33,9 +33,6 @@
   <project path="hardware/ti/omap4" name="UOS-By-Uteam/platform_hardware_ti_omap4" />
   <project path="hardware/ti/wlan" name="UOS-By-Uteam/platform_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="UOS-By-Uteam/platform_hardware_ti_wpan" />
-  <project path="packages/apps/AudioFX" name="UOS-By-Uteam/platform_packages_apps_AudioFX" />
-  <project path="packages/apps/Browser" name="UOS-By-Uteam/platform_packages_apps_Browser" />
-  <project path="packages/apps/CMParts" name="UOS-By-Uteam/platform_packages_apps_CMParts" />
   <project path="packages/apps/Eleven" name="UOS-By-Uteam/platform_packages_apps_Eleven" />
   <project path="packages/apps/Exchange" name="UOS-By-Uteam/platform_packages_apps_Exchange" />
   <project path="packages/apps/FMRadio" name="UOS-By-Uteam/platform_packages_apps_FMRadio" />
@@ -51,7 +48,6 @@
   <project path="packages/services/WeatherService" name="UOS-By-Uteam/platform_packages_services_WeatherService" />
   <project path="prebuilts/cmsdk" name="UOS-By-Uteam/platform_prebuilts_cmsdk" clone-depth="1" />
   <project path="system/extras/su" name="UOS-By-Uteam/platform_system_extras_su" />
-  <project path="vendor/cm" name="UOS-By-Uteam/platform_vendor_cm" />
   <project path="vendor/cmsdk" name="UOS-By-Uteam/cm_platform_sdk" />
 
   <!-- CodeAurora additions -->
