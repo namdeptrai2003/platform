@@ -33,7 +33,6 @@
   <project path="hardware/ti/omap4" name="UOS-By-Uteam/platform_hardware_ti_omap4" />
   <project path="hardware/ti/wlan" name="UOS-By-Uteam/platform_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="UOS-By-Uteam/platform_hardware_ti_wpan" />
-  <project path="packages/apps/Eleven" name="UOS-By-Uteam/platform_packages_apps_Eleven" />
   <project path="packages/apps/Exchange" name="UOS-By-Uteam/platform_packages_apps_Exchange" />
   <project path="packages/apps/FMRadio" name="UOS-By-Uteam/platform_packages_apps_FMRadio" />
   <project path="packages/apps/LockClock" name="UOS-By-Uteam/platform_packages_apps_LockClock" />
